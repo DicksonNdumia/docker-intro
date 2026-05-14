@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1778784836455,
+      "tag": "0000_curvy_justin_hammer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1778784950089,
+      "tag": "0001_same_captain_stacy",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1778785390913,
+      "tag": "0002_harsh_blackheart",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1778786055199,
+      "tag": "0003_sweet_snowbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1778786728478,
+      "tag": "0004_chief_tyrannus",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1778787074989,
+      "tag": "0005_magical_winter_soldier",
+      "breakpoints": true
+    }
+  ]
+}
