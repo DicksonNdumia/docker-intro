@@ -43,4 +43,4 @@ export const postRelations = relations(post, ({ one, many }) => ({
 }));
 
 export const postSchema = createInsertSchema(post);
-export type CategorySchema = z.infer<typeof postSchema>;
+export type postSchema = z.infer<typeof postSchema>;
